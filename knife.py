@@ -1,6 +1,5 @@
 
 import requests
-import requests
 import sys
 import threading
 
