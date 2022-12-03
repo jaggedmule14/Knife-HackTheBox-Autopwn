@@ -1,0 +1,4 @@
+######-Requirements-######
+
+#Requests: https://pypi.org/project/requests/#
+requests
